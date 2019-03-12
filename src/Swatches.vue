@@ -28,7 +28,7 @@
       >
       <slot
         name="custom-element"
-      />
+      ></slot>
         <!-- The wrapper handles the internal spacing -->
         <div
           class="vue-swatches__wrapper"
